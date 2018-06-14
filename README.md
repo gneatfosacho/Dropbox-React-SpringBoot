@@ -10,8 +10,8 @@ A Dropbox like web application using React.js | Java Spring Boot | Spring Data |
 
 ### Architecture
 * Web Application uses a Client-Server Architecture with:
-  * Client components developed using Angular 4 - Folder - '/client/Angularecommerce'   
-  * Server Restful Api's developed using Node.js, Express.js, MongoDB - Folder - '/server'
+  * Client components developed using React.js - Folder - '/react-frontend'   
+  * Server Restful Api's developed using Java, Spring Boot, Spring Data, Hibernate - Folder - '/springboot-backend'
 ![](/images/a.PNG)
 
 ### Technology stack
