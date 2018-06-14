@@ -55,4 +55,43 @@ A Dropbox like web application using React.js | Java Spring Boot | Spring Data |
 
 ## Screenshots
 
-##### HomePage
+##### HomePage/Login
+
+![](images/0.PNG)
+
+##### Register
+
+![](images/1.PNG)
+
+##### User Dashboard
+
+![](images/2.PNG)
+
+##### User Details
+
+![](images/3.PNG)
+
+##### User Logs/Group Logs
+
+![](images/4.PNG)
+
+##### Delete Files
+
+![](images/6.PNG)
+
+##### Create New Folder
+
+![](images/7.PNG)
+![](images/8.PNG)
+
+##### Share Files
+
+![](images/9.PNG)
+![](images/10.PNG)
+![](images/11.PNG)
+
+##### Groups & Members
+
+![](images/17.PNG)
+![](images/18.PNG)
+
