@@ -95,3 +95,18 @@ A Dropbox like web application using React.js | Java Spring Boot | Spring Data |
 ![](images/17.PNG)
 ![](images/18.PNG)
 
+## Steps for Project Execution :
+
+Install MySQL
+
+Create Databases and Tables 
+
+Change DatabaseName, DB_User and DB_Password in springboot-backend/src/main/resources/application.properties
+
+Open /springboot-backend in Intellij/Eclipse
+
+```
+cd react-frontend
+npm install
+npm start
+```
